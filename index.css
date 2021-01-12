@@ -35,6 +35,7 @@ nav a {
     text-decoration: none;
     text-transform: uppercase;
     font-size: large;
+    text-shadow: 2px 2px black;
 }
 
 nav a:hover {
@@ -53,6 +54,7 @@ nav a:hover {
          color: white;
          background-size: cover;
          height: 100vh;
+         text-shadow: 2px 2px black;
 }
 
 .jumbotron2 {
@@ -66,6 +68,7 @@ nav a:hover {
          color: white;
          background-size: cover;
          height: 100vh;
+         text-shadow: 2px 2px black;
 }
 
 .jumbotron3 {
@@ -79,6 +82,7 @@ nav a:hover {
          color: white;
          background-size: cover;
          height: 100vh;
+         text-shadow: 2px 2px black;
 }
 
 .jumbotron4 {
@@ -92,6 +96,7 @@ nav a:hover {
          color: white;
          background-size: cover;
          height: 100vh;
+         /* text-shadow: 2px 2px black; */
 }
 
 .jumbotron5 {
@@ -105,6 +110,7 @@ nav a:hover {
          color: white;
          background-size: cover;
          height: 100vh;
+         text-shadow: 2px 2px black;
 }
 
 .jumbotron6 {
@@ -118,5 +124,28 @@ nav a:hover {
          color: white;
          background-size: cover;
          height: 100vh;
+         text-shadow: 2px 2px black;
 }
+
+h4 {
+    color: red;
+    margin-left: 20px;
+  }
+
+  p {
+    color: black;
+    margin-left: 20px;
+  }
+
+  p1 {
+    color: white;
+    margin-left: 20px;
+    text-shadow: 2px 2px black;
+  }
+
+  p2 {
+    color: white;
+    /* margin-left: 1px; */
+    text-shadow: 2px 2px black;
+  }
 
